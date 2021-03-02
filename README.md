@@ -16,6 +16,8 @@ difference between growth and fixed mindset:
 - will achieve more & higher goals
 - Fixed mindset
 
+**Stable mindset**
+
 *orderd list*
 
 - Avoids challenges 
