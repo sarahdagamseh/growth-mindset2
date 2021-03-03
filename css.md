@@ -20,8 +20,8 @@
 | < p > Paragraph < /p >                          | <p>Paragraph</p>                             |
 | < em > Italic < /p >                            | <em>Italic</em>                              |
 | < strong >< em > Bold Italic < em >< strong >   | <strong><em> Bold Italic <em><strong>        |
-| < ol >                                          | <ol>                                         |         
-| < li > First item < /li >                       | <li>First item </li>                         |
+| < ol >                                          | <ol>                                         |
+| < li > First item < /li >                       | <li>First item</li>                          |
 | < li > Second item < /li >                      | <li>second item</li>                         |
 | < li > Third item < /li >                       | <li>Third item</li>                          |
 | < li > Fourth item < /li >                      | <li>Fourth item</li>                         |
@@ -31,5 +31,6 @@
 | < li > Second item < /li >                      | <li>Second item</li>                         |
 | < li > Third item < /li >                       | <li>Third item</li>                          |
 | < li > Fourth item < /li >                      | <li>Fourth item</il>                         |
-| < ul >                                          | <ul>                                         |
+| < /ul >                                         | </ul>                                        |
   
+  ## For more information vistit [w3schools](https://www.w3schools.com/)
