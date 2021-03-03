@@ -6,8 +6,6 @@ difference between growth and fixed mindset:
 
 **Growth mindset**
 
-
-
 - Embraces challenges
 - persist the obstacle
 - more effort "no pain, no gain
@@ -17,7 +15,6 @@ difference between growth and fixed mindset:
 - Fixed mindset
 
 **Stable mindset**
-
 
 - Avoids challenges 
 - Loses focus in obstacle
