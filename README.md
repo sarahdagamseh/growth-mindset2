@@ -6,7 +6,7 @@ difference between growth and fixed mindset:
 
 **Growth mindset**
 
-*unorderd list*
+*unorderd list
 
 - Embraces challenges
 - persist the obstacle
@@ -18,7 +18,7 @@ difference between growth and fixed mindset:
 
 **Stable mindset**
 
-*unorderd list*
+*unorderd list
 
 - Avoids challenges 
 - Loses focus in obstacle
