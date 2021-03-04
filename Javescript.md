@@ -31,16 +31,13 @@
 #### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements)
 
 ## HTML
+![image](https://user-images.githubusercontent.com/79833651/109936663-ce3ecd80-7cd6-11eb-8e20-5eceec8aadce.png)
 
- <!DOCTYPE html>                                      
- <html> 
-  <head> 
-   <tit le>Basic Function</title> 
-   <link rel ="stylesheet"  href="cs s/ c03. css"  / > 
- </head>
-  <body> 
-    <hl>TravelWorthy</ hl> 
-    <div id="message">Welcome to our site!</ div> 
-    <script src="js/ basic-function. js"></ script> 
-  </body> 
-</html> 
+  
+
+## JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/79833651/109936776-e9114200-7cd6-11eb-8a88-1fcb021daefe.png)
+
+
+##### *Wrote By Sarah Dagamseh*
