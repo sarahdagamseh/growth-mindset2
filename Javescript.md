@@ -12,10 +12,9 @@
 
 ### **How to write a script:**
 
-
-1. Define the goal
-2. Desigm the scrips
-3. Code each step
+##### 1. Define the goal
+##### 2. Desigm the scrips
+##### 3. Code each step
 
 ## ACCESSING & CHANGING VALUES IN AN ARRAY 
 ### **Expressions**
@@ -28,3 +27,5 @@
 #### 6. *LOGICAL OPERATORS Combine expressions and return true or fa1se buy= (5 > 3) && (2 < 4); The value of buy is now true.*
 #### 7. *STRING OPERATORS Combine two strings greeting= 'Hi 1 + 'Molly'; The value of greeting is now Hi Molly.*
 
+## What is a function 
+#### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements)
