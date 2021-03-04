@@ -29,3 +29,18 @@
 
 ## What is a function 
 #### Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements)
+
+## HTML
+
+ <!DOCTYPE html>                                      
+ <html> 
+  <head> 
+   <tit le>Basic Function</title> 
+   <link rel ="stylesheet"  href="cs s/ c03. css"  / > 
+ </head>
+  <body> 
+    <hl>TravelWorthy</ hl> 
+    <div id="message">Welcome to our site!</ div> 
+    <script src="js/ basic-function. js"></ script> 
+  </body> 
+</html> 
