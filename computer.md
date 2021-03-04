@@ -24,3 +24,4 @@ These all play a vital role in the working of a computer system.
 
 Hardware and Software
 The input and output devices that can be physically touched are known as Hardware of the system. Such as keyboard, mouse, screen, etc. The applications that reside in the Computer and can only see them but cannot touch them are known as Software. Such as Microsoft Word, Excel, Paint, and all the installed software on the system.
+
