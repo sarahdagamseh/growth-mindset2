@@ -7,7 +7,7 @@
 
 #### The five classic components of a computer are briefly described below. Each component is discussed in more detail in its own section. The operation of the processor is best understood in terms of these components. 
 
-!{computer.component}(https://www.hellotech.com/blog/wp-content/uploads/2020/10/best-desktop-computers-1-1280x720.jpg)
+![computer.component](https://www.hellotech.com/blog/wp-content/uploads/2020/10/best-desktop-computers-1-1280x720.jpg)
 ##### 1- Datapath - manipulates the data coming through the processor. It also provides a small amount of temporary data storage.
 ##### 1- Control - generates control signals that direct the operation of memory and the datapath.
 ##### 1- Memory - holds instructions and most of the data for currently executing programs.
