@@ -24,6 +24,10 @@ Hardware is any part of your computer that has a physical structure, such as the
 
 1- **Software** is any set of instructions that tells the hardware what to do and how to do it. Examples of software include web browsers, games, and word processors.**
 
+###### [Read More](https://en.wikipedia.org/wiki/Computer)
+
+
+
 <footer style="color:blueviolet"> &copy; Created By Sarah Dagamseh </footer>
  
 
