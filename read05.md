@@ -48,9 +48,9 @@ do/while - loops through a block of code once, and then repeats the loop while a
 
 *example of for syntax :*
 
-[for](for.PNG)
+![for](for.PNG)
 
 *example of while syntax:*
-[while](while.PNG)
+![while](while.PNG)
 
-##### **Tip: Use the break statement to break out of a loop, and the continue statement to skip a value in the loop.**
+##### **Tip: Use the break statement to break out of a loop, and the [continue](https://www.w3schools.com/jsref/jsref_continue.asp) statement to skip a value in the loop.**
