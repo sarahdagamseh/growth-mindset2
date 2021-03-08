@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # What is a Computer
 
 #### Initially, as a new user, one should be introduced with the machine, which is known as Computer. So, a computer is an electronic device that requires a power supply to work. Power Supply is the lifeline of a computer as water is the lifeline for a human body. A computer machine is used to process the information provided by us. It takes information or data from one end, store it to process, and finally, after completing the processing, it output the result on the other hand. The information it takes at one end is known as Computer Input, and the result that it provides after processing is known as Computer Output. The place where it stores the information is known as Computer Memory or RAM (Random Access Memory). A computer system stores information in bits. Bits is the smallest storage unit of a computer.
@@ -61,4 +61,4 @@ Hardware is any part of your computer that has a physical structure, such as the
  
 
 
->>>>>>> 8c22514e37e611c7a7e11633c9a757bfc06aacef
+
